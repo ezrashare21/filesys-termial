@@ -6,3 +6,5 @@ A simple project to duplicate a terminal.
 # What i'm working on
 
 i'm currrently working on things like cd, the terminal command, and along with that, pre2.
+
+as promised, autosetup is here.
